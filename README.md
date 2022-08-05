@@ -1,3 +1,3 @@
 # MLlib-Spark-Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alynva/MLlib-Spark-Notebook/blob/main/MLlibSpark.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alynva/MLlib-Spark-Notebook)
