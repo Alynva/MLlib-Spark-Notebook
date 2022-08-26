@@ -13,6 +13,19 @@ Este projeto está dividido em alguns notebooks para que possam ser executados d
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alynva/MLlib-Spark-Notebook)
 
+## Índice
+
+- [Contexualização do assunto](./contexto.md)
+- Classificação
+  - [Implementação Básica](./classificacao.ipynb)
+  - [Implementação Completa](#wip)
+  - [Comparação com outras bibliotecas](#wip)
+- Clusterização
+  - [Implementação Básica](./clusterizacao.ipynb)
+  - [Implementação Completa](#wip)
+  - [Comparação com outras bibliotecas](#wip)
+- [Conclusão](#wip)
+
 ## Autores
 
 - **Alisson Nunes** (725862)
