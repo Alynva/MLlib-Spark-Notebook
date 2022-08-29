@@ -9,7 +9,7 @@
 
 ### Classificação
 
-<div style="text-align: center">
+<div align="center">
 
 ![Exemplo de Classificação](./assets/classification.jfif)
 
@@ -19,7 +19,7 @@ Modelo supervisionado que é utilizado para dizer a qual classe um objeto ou dad
 
 ### Clusterização
 
-<div style="text-align: center">
+<div align="center">
 
 ![Exemplo de Clustarização](./assets/K-means_convergence.gif)
 
